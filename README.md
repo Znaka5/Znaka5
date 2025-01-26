@@ -1,5 +1,6 @@
-## Znaka5 (Dimitar Ventsislavov katsarov)
+## Znaka5 ✨ (Dimitar Ventsislavov katsarov) ✨ 
 
+**Science lover ✨
 <!--
 **Znaka5/Znaka5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
